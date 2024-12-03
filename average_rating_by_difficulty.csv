@@ -1,0 +1,9 @@
+model_name,simple_input_average,complex_input_average
+fine_tuned_bart_combined_df,8.84,8.47
+fine_tuned_bart_moh_x,8.43,8.63
+fine_tuned_bart_trofi,6.54,7.15
+fine_tuned_bart_vua,9.29,9.37
+fine_tuned_t5_combined_df,8.38,7.94
+fine_tuned_t5_moh_x,5.23,5.17
+fine_tuned_t5_trofi,6.94,7.57
+fine_tuned_t5_vua,5.43,7.84
