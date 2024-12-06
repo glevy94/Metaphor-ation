@@ -1,0 +1,9 @@
+model_name,Average Rating,Standard Deviation,Range,Minimum Rating,Maximum Rating
+fine_tuned_bart_vua,9.33,1.03,4,6,10
+fine_tuned_bart_combined_df,8.65,1.59,7,3,10
+fine_tuned_bart_moh_x,8.52,1.91,7,3,10
+fine_tuned_t5_combined_df,8.13,2.24,7,3,10
+fine_tuned_t5_trofi,7.27,2.54,8,2,10
+fine_tuned_bart_trofi,6.85,2.17,8,2,10
+fine_tuned_t5_vua,6.66,2.67,8,2,10
+fine_tuned_t5_moh_x,5.2,2.67,9,1,10
